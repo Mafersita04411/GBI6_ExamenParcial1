@@ -32,3 +32,11 @@ Operating System: Windows 10 Home Single Language 64-bit (10.0, Build 19042) (19
 Se han utilizado los programas Git bush para el desarrollo de las preguntas de la 1 a la 5. Las preguntas 6, 7 y 8 fueron realizadas en Python. Y el cuaderno fue editado con anaconda en el programa  jupyter lab.
 
 ## Explicación de la data utilizada
+
+Para el ejercicio 5 se trabajo con el archivo Marra2014_data.fasta que se encuentra en el repositorio de CSB.
+
+Para realizar el ejercicio 6  se trabajó con  la información de la tabla uno que ofrece el link   https://www.nature.com/scitable/topicpage/eukaryotic-genome-complexity-437/ la cual es una tabla del tamaño del genoma y número de genes  que codifican proteínas para un puñado seleccionado de especies.
+
+Para la pregunta 7 se utilizó un lista de las primeras 10 letras del alfabeto.
+
+Para la pregunta 8 se utilizó la primera tabla  de http://www.russelllab.org/aas/aas.html. corresponde a información de  las propiedades de los aminoácidos.
