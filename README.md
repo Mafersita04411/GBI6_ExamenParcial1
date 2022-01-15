@@ -29,4 +29,6 @@ Operating System: Windows 10 Home Single Language 64-bit (10.0, Build 19042) (19
                
 ## Programas utilizados
 
+Se han utilizado los programas Git bush para el desarrollo de las preguntas de la 1 a la 5. Las preguntas 6, 7 y 8 fueron realizadas en Python. Y el cuaderno fue editado con anaconda en el programa  jupyter lab.
+
 ## Explicación de la data utilizada
